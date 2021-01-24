@@ -14,5 +14,5 @@ config zerotier sample_config
 	option secret ''
 
 	# Join a public network called Earth
-	list join '9f77fc393ee3afbe'
+	list join '0cccb752f7fbd12a'
 	#list join '<other_network>'
